@@ -16,7 +16,7 @@ function LaVieDouce(Project) {
 
 <div align="center">
 
-<img src="Projeto/assets/readme/readme1.png" alt="Tela de Login La Vie Douce" width="800"/>
+<img src="Projeto/assets/readme/readme1.png" alt="Tela de Login La Vie Douce" width="600"/>
 
 </div>
 
